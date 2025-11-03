@@ -127,4 +127,21 @@ Data Handling	Pandas, NumPy
 Modeling	scikit-learn
 Visualization	Matplotlib
 Notebook Environment	Jupyter / Google Colab
- 
+
+
+## 📂 Repository Structure
+
+```
+Aircraft_maintenance/
+├── PM_train.csv                 # Training dataset
+├── PM_test.csv                  # Test dataset
+├── PM_truth.csv                 # Ground truth for RUL
+├── aircraft_maintenance.ipynb   # Main Jupyter Notebook (data prep, model, evaluation)
+├── LICENSE                      # License information
+└── README.md                    # Project documentation
+```
+✍️ Author
+
+Soham Banerjee
+AI & Machine Learning Technical Trainer | Aerospace AI Researcher
+📧 banerjee.soham08122001@gmail.com
